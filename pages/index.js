@@ -17,7 +17,7 @@ export default function Home() {
                 Discover Rare Collections Of Art & <span className="bg-gradient-to-r from-[#DF25E1] to-[#5117F4] px-4">NFT’s</span>
               </h1>
               <p className="text-white DM-Sans sm:text-2xl sm:w-auto w-10/12 my-6  text-xs text-center sm:text-left mx-auto ">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </p>
-              <div className="flex justify-between w-10/12 sm:mx-0 mx-auto sm:w-5/12">
+              <div className="flex justify-between w-11/12 sm:mx-0 mx-auto sm:w-5/12">
                 <Button linear={true} text="Explore" />
                 <Button text="Create" />
               </div>
