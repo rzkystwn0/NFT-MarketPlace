@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Card({img}) {
+function Card({img, cls}) {
   return (
-    <img src={img} className="" />
+    <img src={img} className={cls} />
   )
 }
 
